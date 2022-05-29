@@ -1,0 +1,27 @@
+.container{
+    background-color: aqua;
+    /* height: 562; */
+}
+.container img{
+    width: 83%;
+    height: 80%;
+}
+body{
+    font-family: 'Calibri';
+}
+a{
+    color: rgb(40, 40, 40);
+}
+a:hover{
+    color: blue;
+}
+.about{
+    width: 134%;
+}
+.about a{
+    font-size: 30px;
+}
+.icons{
+    word-spacing: 40px;
+
+}
